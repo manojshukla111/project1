@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PROJECT1_MANOJ.props" />
+</Project>

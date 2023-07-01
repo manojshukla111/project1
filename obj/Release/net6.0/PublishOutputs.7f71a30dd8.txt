@@ -1,0 +1,11 @@
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\PROJECT1_MANOJ.exe
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\PROJECT1_MANOJ.dll
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\PROJECT1_MANOJ.deps.json
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\PROJECT1_MANOJ.runtimeconfig.json
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\PROJECT1_MANOJ.pdb
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MANOJ SHUKLA\source\repos\PROJECT1_MANOJ\PROJECT1_MANOJ\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
